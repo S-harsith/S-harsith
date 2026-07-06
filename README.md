@@ -202,12 +202,10 @@ AI Face Recognition Attendance System
 📧 Email:
 **harsithofficial07@gmail.com**
 
-💼 LinkedIn
-
+💼 LinkedIn:
 https://linkedin.com/in/harsith-s-j
 
-💻 GitHub
-
+💻 GitHub:
 https://github.com/S-harsith
 
 ---
