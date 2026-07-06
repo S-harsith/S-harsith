@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Harsith S J</h1>
 
 <h3 align="center">
-AI & Data Science Student | AI Developer | Data Science Enthusiast | Future ML Engineer
+AI & Data Science Student | AI Developer | Data Science Enthusiast 
 </h3>
 
 <p align="center">
