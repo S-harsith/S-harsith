@@ -151,20 +151,6 @@ AI Face Recognition Attendance System
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=S-harsith&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=S-harsith&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-harsith&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🧠 AI Learning Journey
 
 ✅ Python
