@@ -69,7 +69,7 @@ AI Face Recognition Attendance System
 
 # 🧠 AI Learning Journey
 
-✅ Python                            ✅ Machine Learning
+✅ Python                              ✅ Machine Learning
 
 ✅ SQL                               ✅ Data Analytics
 
