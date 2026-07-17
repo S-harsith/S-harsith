@@ -69,25 +69,15 @@ AI Face Recognition Attendance System
 
 # 🧠 AI Learning Journey
 
-✅ Python
+✅ Python                            ✅ Machine Learning
 
-✅ Machine Learning
+✅ SQL                               ✅ Data Analytics
 
-✅ SQL
+🔄 Deep Learning                     🔄 Generative AI
 
-✅ Data Analytics
+🔄 Computer Vision                   🔄 LLM Applications
 
-🔄 Deep Learning
-
-🔄 Generative AI
-
-🔄 Computer Vision
-
-🔄 LLM Applications
-
-🔄 Three.js
-
-🔄 Blender
+🔄 Three.js                          🔄 Blender
 
 🔄 Data Engineering
 
@@ -95,21 +85,13 @@ AI Face Recognition Attendance System
 
 # 📅 2026 Goals
 
-- Complete 250+ LeetCode Problems
+- Complete 250+ LeetCode Problems                                 - Build 15 AI Projects
 
-- Build 15 AI Projects
+- Learn Three.js                                                  - Learn Blender
 
-- Learn Three.js
+- Master Deep Learning                                            - Deploy AI Models
 
-- Learn Blender
-
-- Master Deep Learning
-
-- Deploy AI Models
-
-- Learn MLOps
-
-- Contribute to Open Source
+- Learn MLOps                                                     - Contribute to Open Source
 
 ---
 
