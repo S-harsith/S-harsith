@@ -37,39 +37,6 @@ To become an AI Engineer capable of building intelligent products that solve rea
 
 ---
 
-# 🛠 Tech Stack
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
-</p>
-
-### AI & Data Science
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
-- PySpark
-
-### Web Technologies
-
-- HTML
-- CSS
-- JavaScript
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
 # 📚 Currently Exploring
 
 🤖 Artificial Intelligence
