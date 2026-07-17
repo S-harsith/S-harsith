@@ -29,18 +29,7 @@ Building intelligent solutions using Artificial Intelligence, Data Science, and 
 
 🎓 B.Tech Artificial Intelligence & Data Science Student
 
-💡 Passionate about AI, Machine Learning, Computer Vision, and Data Analytics.
-
-🌱 Currently learning
-
-- Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
-- PySpark & Big Data
-- Data Engineering
-- 3D Web Development (Three.js)
-- Blender for 3D Modeling
-- AI Automation
+💡 Passionate about using AI and data to solve real-world problems. Eager to learn, grow, and contribute to innovative projects. Seeking opportunities to create meaningful impact through technology. Dedicated to building solutions that improve lives and drive positive change.
 
 🎯 Goal
 
