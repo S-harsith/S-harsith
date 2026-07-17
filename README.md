@@ -37,45 +37,6 @@ To become an AI Engineer capable of building intelligent products that solve rea
 
 ---
 
-# 📚 Currently Exploring
-
-🤖 Artificial Intelligence
-
-- Generative AI
-- Prompt Engineering
-- Hugging Face
-- LLM Applications
-- AI Agents
-
-📊 Data Science
-
-- Statistics
-- Data Cleaning
-- Feature Engineering
-- Model Deployment
-
-☁ Cloud
-
-- AWS Basics
-- Google Cloud
-- Docker
-
-🎨 3D Technologies
-
-- Three.js
-- Blender
-- React Three Fiber
-- WebGL
-
-🧠 AI Research
-
-- RAG
-- LangChain
-- AI Automation
-- Multi-Agent Systems
-
----
-
 # 🚀 Featured Projects
 
 ### 🌾 Fuzzy Bee
