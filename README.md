@@ -1,57 +1,64 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Harsith;AI+%7C+Data+Science+%7C+Problem+Solver" alt="Typing SVG" />
+  <h1>Hi There! 👋 I'm Harsith</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Building+Intelligent+Systems;2nd+Year+CSE+%40+VSB+College" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Harsith Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/S-harsith">
+    <img src="https://github-readme-stats.vercel.app/api?username=S-harsith&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats"/>
+  </a>
+  <a href="https://github.com/S-harsith">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-harsith&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🔥 About Me
 
-- 🎓 **Your Current Status** (e.g., 2nd Year CSE Student at VSB College)
-- 🔭 Currently learning **Machine Learning, Deep Learning & Generative AI**
-- 🌱 Passionate about building real-world AI solutions
-- 💡 Open to collaborations on **AI/ML & Data Science** projects
-- 📫 Reach me at: `your.email@example.com`
+- 🎓 **2nd Year Computer Science Student** at VSB College of Engineering & Technology
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
+- 🌱 Currently exploring **Deep Learning, Generative AI & Computer Vision**
+- 💡 Love turning ideas into real-world projects
+- 📫 Open for collaborations & learning opportunities
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,tailwind,nodejs,mysql,mongodb,git,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,react,tailwind,nodejs,express,mysql,mongodb,git,docker,aws,figma" />
 </div>
 
 ---
 
-### 🔥 Featured Projects
+### 🚀 Featured Projects
 
-- **[Project Name](link)** → Short description (e.g., AI-powered Image Classifier using CNN)
-- **[Project Name](link)** → Short description
+**Project 1** — [AI Image Classifier](link)  
+**Project 2** — [Smart Attendance System using Face Recognition](link)  
+**Project 3** — [Your Third Project](link)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-harsith&theme=radical&hide_border=true" alt="Streak"/>
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <!-- Add more -->
+  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
----
+<br>
 
-*Made with ❤️ and lots of ☕*
+---
+*Crafted with ❤️ & AI*
