@@ -12,12 +12,6 @@
 
 <br>
 
-<!-- Stats -->
-<div align="center">
-  <img height="210" src="https://github-readme-stats.vercel.app/api?username=S-harsith&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-harsith&layout=compact&theme=radical&hide_border=true" />
-</div>
-
 <br>
 
 <!-- Streak -->
