@@ -26,14 +26,14 @@
 
 ### 🚀 Featured Projects
 
-**[SMART ATTEND]** 
+**SMART ATTEND** 
 - Developed a Smart Attendance System that automatically recognizes students through a CCTV and marks their attendance in real time, completely eliminating the need for manual roll call
 - Implemented a privacy-first face recognition approach by storing only mathematical face data instead of actual photos, ensuring student data is protected while maintaining accurate identification
 - Built an automated notification system that sends daily absence alert emails to their representatives every morning without effort, keep representatives being informed instantly when their person/child is absent
 - Designed a role-based admin dashboard where teachers can view attendance records, filter by date and status, download reports, and manually trigger notifications — all from a single interface
 
 ---
-  **[Project 2 Name]**
+  **Fuzzy Bee**
 - Built an intelligent plant monitoring platform to give farmers real-time crop health visibility enabling instant detection of critical issues before they cause crop loss
 - Developed an AI-driven alert system to guide farmers with corrective actions delivering automated recommendations the moment any soil or environmental reading goes out of safe range
 - Designed a smart crop selection engine to help farmers choose the most suitable crop providing tailored recommendations based on live soil, humidity, pH, and nutrient data
