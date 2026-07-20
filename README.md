@@ -31,6 +31,8 @@
 - Implemented a privacy-first face recognition approach by storing only mathematical face data instead of actual photos, ensuring student data is protected while maintaining accurate identification
 - Built an automated notification system that sends daily absence alert emails to their representatives every morning without effort, keep representatives being informed instantly when their person/child is absent
 - Designed a role-based admin dashboard where teachers can view attendance records, filter by date and status, download reports, and manually trigger notifications — all from a single interface
+
+---
   **[Project 2 Name]**
 - Built an intelligent plant monitoring platform to give farmers real-time crop health visibility enabling instant detection of critical issues before they cause crop loss
 - Developed an AI-driven alert system to guide farmers with corrective actions delivering automated recommendations the moment any soil or environmental reading goes out of safe range
