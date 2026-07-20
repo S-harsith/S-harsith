@@ -33,7 +33,7 @@
 - Designed a role-based admin dashboard where teachers can view attendance records, filter by date and status, download reports, and manually trigger notifications — all from a single interface
 
 ---
-  **Fuzzy Bee**
+  **FYZZY BEE**
 - Built an intelligent plant monitoring platform to give farmers real-time crop health visibility enabling instant detection of critical issues before they cause crop loss
 - Developed an AI-driven alert system to guide farmers with corrective actions delivering automated recommendations the moment any soil or environmental reading goes out of safe range
 - Designed a smart crop selection engine to help farmers choose the most suitable crop providing tailored recommendations based on live soil, humidity, pH, and nutrient data
