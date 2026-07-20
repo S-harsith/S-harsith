@@ -25,7 +25,6 @@
 ---
 
 ### 🚀 Featured Projects
-*(Replace with your real projects)*
 
 - **[SMART ATTEND](link)** 
 - Developed a Smart Attendance System that automatically recognizes students through a CCTV and marks their attendance in real time, completely eliminating the need for manual roll call
