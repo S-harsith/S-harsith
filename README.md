@@ -4,11 +4,6 @@
 
 <br>
 
-<!-- Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-harsith&theme=radical&hide_border=true&border_radius=10" alt="Streak Stats" />
-</div>
-
 ---
 
 ### 🔥 About Me
