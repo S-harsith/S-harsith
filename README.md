@@ -8,7 +8,7 @@
 
 ### 🔥 About Me
 
-- 🎓 **2nd Year CSE Student** @ VSB College of Engineering & Technology
+- 🎓 **Final Year B.Tech Artificial Intelligence and Data Science Student** @ VSB College of Engineering & Technology
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
 - 🌱 Currently diving deep into **Deep Learning, Computer Vision & MLOps**
 - 💡 I love building projects that solve real-world problems
@@ -27,7 +27,11 @@
 ### 🚀 Featured Projects
 *(Replace with your real projects)*
 
-- **[Project 1 Name](link)** — Short powerful description
+- **[SMART ATTEND](link)** 
+- Developed a Smart Attendance System that automatically recognizes students through a CCTV and marks their attendance in real time, completely eliminating the need for manual roll call
+- Implemented a privacy-first face recognition approach by storing only mathematical face data instead of actual photos, ensuring student data is protected while maintaining accurate identification
+- Built an automated notification system that sends daily absence alert emails to their representatives every morning without effort, keep representatives being informed instantly when their person/child is absent
+- Designed a role-based admin dashboard where teachers can view attendance records, filter by date and status, download reports, and manually trigger notifications — all from a single interface
 - **[Project 2 Name](link)** — Short powerful description
 
 ---
