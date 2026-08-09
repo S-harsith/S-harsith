@@ -40,9 +40,5 @@
 - Created a historical data tracking dashboard to support long-term farm decision making allowing farmers to analyse past readings and export reports from a single interface
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=S-harsith&color=00FF9F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
 <br>
 
