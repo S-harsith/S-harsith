@@ -8,7 +8,7 @@
 
 ### 🔥 About Me
 
-- 🎓 **Final Year B.Tech Artificial Intelligence and Data Science Student** @ VSB College of Engineering & Technology
+- 🎓 **Final Year B.Tech Artificial Intelligence and Data Science Student** @ VSB College of Engineering Technical Campus
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
 - 🌱 Currently diving deep into **Deep Learning, Computer Vision & MLOps**
 - 💡 I love building projects that solve real-world problems
