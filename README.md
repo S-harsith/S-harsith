@@ -39,6 +39,12 @@
 - Designed a smart crop selection engine to help farmers choose the most suitable crop providing tailored recommendations based on live soil, humidity, pH, and nutrient data
 - Created a historical data tracking dashboard to support long-term farm decision making allowing farmers to analyse past readings and export reports from a single interface
 ---
+**Vegetable Price & Sales Data Analysis**
+- Processed and cleaned 2 years of vegetable price and sales data using Databricks and PySpark
+- Applied SQL and PySpark transformations to prepare structured datasets for analysis
+- Analyzed monthly and vegetable-wise price trends to identify variations over time
+- Created visualizations to present price trends and support easier data interpretation
+---
 
 <br>
 
